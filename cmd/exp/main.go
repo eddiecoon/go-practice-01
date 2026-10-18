@@ -1,13 +1,13 @@
-package exp
+package main
 
 import "fmt"
 
 func main() {
 	const language = "Go"
-	var name string = "Ирина"
+	var name string = "Степан"
 	completed := 1
 	var ready bool = true
-	var hours float64 = 1.5
+	var hours float64 = 2.5
 
 	fmt.Println("Изучаем", language)
 	fmt.Printf("Участник: %s\n", name)
