@@ -8,3 +8,4 @@
 | 2   | Условия, циклы, функции и коллекции        | [README](./practice-02/README.md) |
 | 3   | Структуры, методы и указатели              | [README](./practice-03/README.md) |
 | 4   | Интерфейсы, ошибки и консольное приложение | [README](./practice-04/README.md) |
+| 5   | Пакеты, Git, JSON и первые тесты           | [README](./practice-05/README.md) |
